@@ -1,0 +1,18 @@
+{
+    "name": "fadli/kalkulator",
+    "description": "kalkulator fadli",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fadli",
+            "email": "fadlyrifai95@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fadli\\Kalkulator\\": "src/"
+        }
+    }
+}
